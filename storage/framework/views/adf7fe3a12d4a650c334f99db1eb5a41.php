@@ -1,0 +1,1 @@
+<?php /**PATH C:\Web\sample-project\resources\views\user\challenges1.blade.php ENDPATH**/ ?>
